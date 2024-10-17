@@ -22,7 +22,7 @@ for i in numberString:
     multi = prod(intervalList, start=1) # Multiply all the numbers for themselves using prod function
     if multi > majorProduct or majorProduct == 0: # If its the first iteration stores the product anyway (majorPorduct == 0) to later compare with the new products and verify if the newer one is greater
         majorProduct = multi # If true replaces the lower product once saved in the majorProduct variable for the greater one
-    intervalList.clear() # Clears the intervalList so it doesn't affectatt the next iterations
+    intervalList.clear() # Clears the intervalList so it doesn't affect the next iterations
     a += 1 # Increases in one the start and the end of the interval until the entire number is analyzed
     b += 1
 
