@@ -28,3 +28,8 @@ def factor(number):
     print(f'Largest prime factor of {number}: {n}') # At the end "n" is going to be the last prime factor, therefore the largest one
 
 factor(600851475143) # Calling the function on the number of the question
+
+
+# OUTPUT
+
+# Largest prime factor of 600851475143: 6857
