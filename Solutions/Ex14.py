@@ -33,4 +33,8 @@ while starting_num < 1000000:
         highest_sequence = len(sequence)
     starting_num += 1
         
-print(result)
+print(result) 
+
+# OUTPUT 
+
+# 837799
