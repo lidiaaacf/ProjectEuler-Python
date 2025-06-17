@@ -19,7 +19,7 @@ Python is a fantastic language for tackling problems on Project Euler for severa
 Each file in this repository contains the best solution I've found for a specific problem from Project Euler. The solutions are organized by problem number, and include both the Python code and comments explaining the logic behind the implementation.
 
 ## Final Considerations
-The idea to tackle these exercises came from a conversation with a friend, where I asked for suggestions on fun, math-based programming challenges to solve in Python. My goal here is not just to enjoy solving these problems, but also to improve my programming logic and discover new tools along the way.
+The idea to tackle these exercises came from a conversation with a friend, when I asked for suggestions on fun, math-based programming challenges to solve in Python. My goal here is not just to enjoy solving these problems, but also to improve my programming logic and discover new tools along the way.
 
 I know my solutions might not always be the "best" or the most optimized ones, but that's part of the process. The aim is to solve each problem with minimal external help, relying mostly on personal learning and experimentation.
 
