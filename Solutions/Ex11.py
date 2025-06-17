@@ -58,4 +58,9 @@ def max_product_in_grid(grid):
                     max_product = prod
     return max_product
 
-highest_product = max_product_in_grid(grid) # 70600674
+highest_product = max_product_in_grid(grid) 
+print(highest_product) 
+
+# OUTPUT
+
+# Product: 70600674
