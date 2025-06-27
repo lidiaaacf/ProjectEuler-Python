@@ -19,3 +19,7 @@ limit = 2000000
 
 result = sum_primes_below(limit)
 print(result)
+
+# OUTPUT
+
+# Result: 142913828922
